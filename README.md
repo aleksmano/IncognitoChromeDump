@@ -5,3 +5,5 @@ This program allows you to find the chrome browser process in incognito mode, in
 IncognitoDump.exe <cookie name>
 ```
 The program will create a process memory dump that contains a string with the cookie value
+
+<img src="./1.JPG" width="100%">
